@@ -2,7 +2,7 @@
 
 1- Como iniciar a aplicação :
 Abra no seu IDE, as duas pastas backEnd e mercadoLivre de forma individual cada uma.
-![image](https://user-images.githubusercontent.com/80259818/155635968-02296356-a68a-4cec-8d31-b181d0a4a8c7.png)
+
 Com os duas abertas, digite em cada terminal de sua pasta/projeto, npm install ou yarn para instalar todas as dependências do projeto, sem elas instaladas não irá funcionar.
 Abra a pasta do back end e a do front, ambas simultaneamente, porém em processos diferentes.
 
