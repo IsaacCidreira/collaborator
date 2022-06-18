@@ -31,7 +31,7 @@ Dando tudo certo abrirá o projeto em uma nova guia e ficará assim :
 
 ![image](https://user-images.githubusercontent.com/80259818/174452218-fa290544-7cbc-40a3-ac79-368cee93d758.png)
 
-
+O projeto se trata de um crud, ao criar o user, por se tratar de dados in-memory, caso o user não apareça após criar ele, só dar um refresh na page, para editar basta criar no card.
 
 # Tecnologias/Bibliotecas usadas/Conceitos
 
