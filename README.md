@@ -50,4 +50,4 @@ Esse foi um projeto fullstack, com dados em memória, não foi utilizado banco d
 Ele faz um CRUD cria usuario, deletea e atualiza. 
 Decide fazer esse projeto para mostrar de forma mais profunda os meus conhecimentos no full stack, solid, design patterns e afins..
 
-SITE PREV: https://collaboratorfrontend.herokuapp.com/
+
